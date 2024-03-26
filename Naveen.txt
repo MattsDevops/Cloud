@@ -1,1 +1,2 @@
 This is Naveen
+Today's class we are discussing about Git Revert / Git Reset
